@@ -57,3 +57,11 @@ Also, I'm a **part-time instructor** at **Hacktiv8**, teaching courses:
 Questions?
 @snapend
 
+---
+@title[Disclaimer]
+
+So, kukuh asked me to share about how important math towards industry 4.0.
+
+@css[fragment](I'm telling you, I don't know exactly)
+
+@css[fragment](But, I want to share my short journey with you, so you can be prepared earlier)
