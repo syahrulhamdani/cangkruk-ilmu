@@ -1,6 +1,6 @@
 theme                   : template
 
-theme-background        : ["black"]
+theme-background        : ["f8f8f7"]
 theme-text              : ["Nunito Sans"]
 
 logo                    : assets/img/himatika-logo.png
