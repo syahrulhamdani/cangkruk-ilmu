@@ -7,7 +7,7 @@
 @snapend
 
 @snap[midpoint span-100 text-08]
-@ul
+@ul[](false)
 - I'm a math **graduate 2012-2016**
 - I joined HIMATIKA 2013 as *Tim Kreatif* staff
 - Then, become Lead of Art Division in HIMATIKA 2014
@@ -20,7 +20,7 @@
 
 @snap[midpoint span-100 text-08]
 ### The Aftermath-ish
-@ul
+@ul[](false)
 - Took a Master of **Computational Science** at ITB
 - Done an internship as **AI Engineer** at **Nodeflux**
 - Started my professional career in the end of 2018 as **Data Scientist** at Bareksa (for only 5 months)
