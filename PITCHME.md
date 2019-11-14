@@ -37,7 +37,7 @@
 @title[Proper Intruduction]
 
 @snap[north-west text-center]
-@img[span-60](assets/img/me.jpg)
+@img[span-60](assets/img/me.png)
 @css[text-08](Syahrul B Hamdani)
 
 @css[text-06](Find me on)
