@@ -1,0 +1,4 @@
+theme                   : template
+
+theme-background        : ["black"]
+theme-text              : ["Nunito Sans"]
