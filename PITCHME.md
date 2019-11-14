@@ -28,3 +28,28 @@
 - Joined my current employer **Kurio** as **Data Science Engineer**
 @ulend
 @snapend
+
++++
+
+## Once again, but properly
+
++++?color=linear-gradient(270deg, #1C1F21 60%, #424242 50%)
+@title[Proper Intruduction]
+
+@snap[north-west text-center]
+@img[span-60](assets/img/me.jpg)
+@css[text-08](Syahrul B Hamdani)
+
+@css[text-06](Find me on)
+<a href="https://twitter.com/sbhamdani">@fab[twitter fa-xs](@size[0.7em](@sbhamdani))</a>
+<a href="https://github.com/syahrulhamdani">@fab[github fa-xs](@size[0.7em](syahrulhamdani))</a>
+@snapend
+
+@snap[east span-45 text-left text-06]
+Hi all, I'm a Dani.
+
+Currently, I'm working as a Data Science Engineer at Kurio. Also, I'm a part-time instructor at Hacktiv8, teaching courses **Intro to Python for Data Science** and **Intermediate Python for Data Science**.
+
+Questions?
+@snapend
+
