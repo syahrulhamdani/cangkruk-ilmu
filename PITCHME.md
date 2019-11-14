@@ -48,7 +48,11 @@
 @snap[east span-45 text-left text-06 text-white]
 Hi all, I'm a Dani.
 
-Currently, I'm working as a Data Science Engineer at Kurio. Also, I'm a part-time instructor at Hacktiv8, teaching courses **Intro to Python for Data Science** and **Intermediate Python for Data Science**.
+Currently, I'm working as a **Data Science Engineer** at **Kurio**.
+
+Also, I'm a **part-time instructor** at **Hacktiv8**, teaching courses:
+* Intro to Python for Data Science
+* Intermediate Python for Data Science
 
 Questions?
 @snapend
