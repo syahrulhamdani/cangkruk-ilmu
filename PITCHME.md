@@ -33,7 +33,7 @@
 
 ## Once again, but properly
 
-+++?color=linear-gradient(270deg, #f8f8f7 60%, #424242 50%)
++++?color=linear-gradient(270deg, #1C1F21 60%, #f8f8f7 40%)
 @title[Proper Intruduction]
 
 @snap[north-west text-center]
