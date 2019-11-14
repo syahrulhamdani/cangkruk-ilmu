@@ -33,7 +33,7 @@
 
 ## Once again, but properly
 
-+++?color=linear-gradient(270deg, #1C1F21 60%, #424242 50%)
++++?color=linear-gradient(270deg, #f8f8f7 60%, #424242 50%)
 @title[Proper Intruduction]
 
 @snap[north-west text-center]
@@ -45,7 +45,7 @@
 <a href="https://github.com/syahrulhamdani">@fab[github fa-xs](@size[0.7em](syahrulhamdani))</a>
 @snapend
 
-@snap[east span-45 text-left text-06]
+@snap[east span-45 text-left text-06 text-white]
 Hi all, I'm a Dani.
 
 Currently, I'm working as a Data Science Engineer at Kurio. Also, I'm a part-time instructor at Hacktiv8, teaching courses **Intro to Python for Data Science** and **Intermediate Python for Data Science**.
