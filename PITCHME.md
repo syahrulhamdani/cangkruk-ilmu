@@ -6,7 +6,7 @@
 ### Hello, I'm `Dani`
 @snapend
 
-@snap[east span-50 text-05]
+@snap[midpoint span-50]
 @ul
 - I'm a math **graduate 2012-2016**
 - I joined HIMATIKA 2013 as *Tim Kreatif* staff
@@ -18,7 +18,9 @@
 Questions?
 @snapend
 
-@snap[west span-50 text-05]
++++
+
+@snap[midpoint span-50]
 ### The Aftermath-ish
 @ul
 - Took a Master of **Computational Science** at ITB
