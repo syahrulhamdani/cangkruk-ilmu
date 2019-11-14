@@ -46,7 +46,7 @@
 @snapend
 
 @snap[east span-45 text-left text-06 text-white]
-Hi all, I'm a Dani.
+Hi all!
 
 Currently, I'm working as a **Data Science Engineer** at **Kurio**.
 
