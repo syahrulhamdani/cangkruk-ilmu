@@ -2,3 +2,5 @@ theme                   : template
 
 theme-background        : ["black"]
 theme-text              : ["Nunito Sans"]
+
+logo                    : assets/img/himatika-logo.png
