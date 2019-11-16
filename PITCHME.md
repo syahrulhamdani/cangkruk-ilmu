@@ -12,7 +12,7 @@
 <a href="https://github.com/syahrulhamdani">@fab[github fa-xs](@size[0.7em](syahrulhamdani))</a>
 @snapend
 
-@snap[east span-45 text-left text-06 text-white]
+@snap[east span-45 text-left text-04 text-white]
 @css[text-righteous](Works)
 2019		AI Engineer Intern at Nodeflux (2 months)
 2018 - 2019	Data Scientist at Bareksa (5 months)
