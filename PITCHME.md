@@ -1,4 +1,4 @@
-## Towards Mathematics for Industry 4.0
+#### Towards Mathematics for Industry 4.0
 
 ---?color=linear-gradient(270deg, #1C1F21 60%, #f8f8f7 40%)
 @title[Proper Intruduction]
