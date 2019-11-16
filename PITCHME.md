@@ -13,12 +13,12 @@
 @snapend
 
 @snap[east span-45 text-left text-04 text-white]
-@css[text-righteous](Works)
+@snap[text-righteous]Works@snapend
 2019		AI Engineer Intern at Nodeflux (2 months)
 2018 - 2019	Data Scientist at Bareksa (5 months)
 2019 - present	Data Science Engineer at Kurio
 
-@css[text-righteous](Education)
+@snap[text-righteous]Education@snapend
 2012 - 2016	B.Sc in Mathematics (Unair)
 2017 - 2019	M.Sc in Computational Science (ITB)
 2019		PyTorch Scholarship Challenge (Facebook X Udacity)
