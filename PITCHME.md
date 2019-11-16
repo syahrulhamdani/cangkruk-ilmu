@@ -1,39 +1,6 @@
 ## Towards Mathematics for Industry 4.0
 
----
-
-@snap[north]
-#### Hello, I'm `Dani`
-@snapend
-
-@snap[midpoint span-100 text-08]
-@ul[](false)
-- I'm a math **graduate 2012-2016**
-- I joined HIMATIKA 2013 as *Tim Kreatif* staff
-- Then, become Lead of Art Division in HIMATIKA 2014
-- I took **ROK** for my undergraduate thesis
-- My grade was only `3.18`
-@ulend
-@snapend
-
-+++
-
-@snap[midpoint span-100 text-08]
-### The Aftermath-ish
-@ul[](false)
-- Took a Master of **Computational Science** at ITB
-- Done an internship as **AI Engineer** at **Nodeflux**
-- Started my professional career in the end of 2018 as **Data Scientist** at Bareksa (for only 5 months)
-- Got my Master Degree on April 2019
-- Joined my current employer **Kurio** as **Data Science Engineer**
-@ulend
-@snapend
-
-+++
-
-## Once again, but properly
-
-+++?color=linear-gradient(270deg, #1C1F21 60%, #f8f8f7 40%)
+---?color=linear-gradient(270deg, #1C1F21 60%, #f8f8f7 40%)
 @title[Proper Intruduction]
 
 @snap[north-west text-center]
@@ -46,15 +13,17 @@
 @snapend
 
 @snap[east span-45 text-left text-06 text-white]
-Hi all!
+@css[text-righteous](Works)
+2019		AI Engineer Intern at Nodeflux (2 months)
+2018 - 2019	Data Scientist at Bareksa (5 months)
+2019 - present	Data Science Engineer at Kurio
 
+@css[text-righteous](Education)
+2012 - 2016	B.Sc in Mathematics (Unair)
+2017 - 2019	M.Sc in Computational Science (ITB)
+2019		PyTorch Scholarship Challenge (Facebook X Udacity)
+2019 - 2020	Bertelsmann Scholarship (Bertelsmann X Udacity)
 Currently, I'm working as a **Data Science Engineer** at **Kurio**.
-
-Also, I'm a **part-time instructor** at **Hacktiv8**, teaching courses:
-* Intro to Python for Data Science
-* Intermediate Python for Data Science
-
-Questions?
 @snapend
 
 ---
