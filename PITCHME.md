@@ -12,17 +12,17 @@
 <a href="https://github.com/syahrulhamdani">@fab[github fa-xs](@size[0.7em](syahrulhamdani))</a>
 @snapend
 
-@snap[east span-55 text-left text-05 text-white]
+@snap[east span-60 text-left text-05 text-white]
 **Work**
-2019		AI Engineer Intern at Nodeflux (2 months)
-2018 - 2019	Data Scientist at Bareksa (5 months)
-2019 - present	Data Science Engineer at Kurio
+2019		: AI Engineer Intern at Nodeflux (2 months)
+2018 - 2019	: Data Scientist at Bareksa (5 months)
+2019 - present	: Data Science Engineer at Kurio
 
 **Education**
-2012 - 2016	B.Sc in Mathematics (Unair)
-2017 - 2019	M.Sc in Computational Science (ITB)
-2019		PyTorch Scholarship Challenge (Facebook X Udacity)
-2019 - 2020	Bertelsmann Scholarship (Bertelsmann X Udacity)
+2012 - 2016	: B.Sc in Mathematics (Unair)
+2017 - 2019	: M.Sc in Computational Science (ITB)
+2019		: PyTorch Scholarship Challenge (Facebook X Udacity)
+2019 - 2020	: Bertelsmann Scholarship (Bertelsmann X Udacity)
 @snapend
 
 ---
