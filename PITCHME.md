@@ -35,10 +35,17 @@ So, kukuh asked me to share about how important math towards industry 4.0.
 @css[fragment](But, I want to share my short journey with you, so you can be prepared earlier)
 
 ---
-@title[Job Landscape 2022]
+@title[Skills Outlook]
 
-#### Job Landscape in 2022
+Try to find the word "math"
 
 +++?image=https://assets.weforum.org/editor/large_ILvSrkBG-jFLFS61hZo3G_0cb2ABMlG-zBzfPmJXA7E.png&size=contain
+
+---
+@title[2022 Job Landscape]
+
+Let's see what jobs look like in 2022
+
++++?image=https://assets.weforum.org/editor/large_4GZ90_U81eRrFFrOZ7_pmyr3oEb-F6v5Wc_B9kHVdSU.png&size=contain
 
 
