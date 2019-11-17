@@ -39,6 +39,6 @@ So, kukuh asked me to share about how important math towards industry 4.0.
 
 #### Job Landscape in 2022
 
-+++?image=https://assets.weforum.org/editor/large_ILvSrkBG-jFLFS61hZo3G_0cb2ABMlG-zBzfPmJXA7E.png
++++?image=https://assets.weforum.org/editor/large_ILvSrkBG-jFLFS61hZo3G_0cb2ABMlG-zBzfPmJXA7E.png&size=contain
 
 
