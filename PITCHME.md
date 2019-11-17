@@ -55,7 +55,7 @@ Let's see what jobs look like in 2022
 Courses I took which affect my current field
 @snapend
 
-@snap[west span-40]
+@snap[west span-50 text-08]
 @ul
 - Calculus-ish
 - Linear Algebra
