@@ -150,4 +150,6 @@ Contributing Courses, at least for me
 ---?image=assets/img/question.jpeg
 @title[QnA Session]
 
-@css[text-white](## QnA Session)
+@snap[midpoint text-white]
+## QnA Session
+@snapend
