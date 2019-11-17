@@ -41,12 +41,46 @@ Try to find the word "math"
 
 +++?image=https://assets.weforum.org/editor/large_4GZ90_U81eRrFFrOZ7_pmyr3oEb-F6v5Wc_B9kHVdSU.png&size=contain
 
++++?color=black
+@title[Skills Outlook Summary]
+
+@snap[north]
+### Skills Outlook
+@snapend
+
+@snap[west span-35]
+@box[bg-red text-white](1. Growing#Human Traits)
+@snapend
+
+@snap[east span-35]
+@box[bg-red text-white](2. Declining#Manual and Simple)
+@snapend
+
 ---
 @title[2022 Job Landscape]
 
 Let's see what jobs look like in 2022
 
 +++?image=https://assets.weforum.org/editor/large_ILvSrkBG-jFLFS61hZo3G_0cb2ABMlG-zBzfPmJXA7E.png&size=contain
+
++++?color=black
+@title[Job Landscape Summary]
+
+@snap[north]
+### Job Landscape
+@snapend
+
+@snap[west span-35]
+@box[bg-red text-white](1.#Data)
+@snapend
+
+@snap[midpoint span-35]
+@box[bg-red text-white](2.#Technology)
+@snapend
+
+@snap[east span-35]
+@box[bg-red text-white](2.#Human Development)
+@snapend
 
 ---
 @title[Math in Unair]
