@@ -48,4 +48,21 @@ Let's see what jobs look like in 2022
 
 +++?image=https://assets.weforum.org/editor/large_ILvSrkBG-jFLFS61hZo3G_0cb2ABMlG-zBzfPmJXA7E.png&size=contain
 
+---
+@title[Math in Unair]
 
+@snap[east span-50]
+Courses I took which affect my current field
+@snapend
+
+@snap[west span-40]
+@ul
+- Calculus-ish
+- Linear Algebra
+- Mathematical Modeling I & II
+- Programming & Algorithm
+- Data Structure & Algorithm
+- OR & Addvanced OR
+- Optimization
+@ulend
+@snapend
