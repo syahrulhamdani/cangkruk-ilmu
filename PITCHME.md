@@ -147,7 +147,7 @@ Contributing Courses, at least for me
 - Generalize, not memorize.
 @ulend
 
----
+---?image=assets/img/question.jpeg
 @title[QnA Session]
 
 ## QnA Session
