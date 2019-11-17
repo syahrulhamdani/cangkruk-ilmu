@@ -151,5 +151,5 @@ Contributing Courses, at least for me
 @title[QnA Session]
 
 @snap[midpoint text-white text-15]
-QnA Session
+@quote[QnA Session]
 @snapend
