@@ -49,11 +49,11 @@ Try to find the word "math"
 @snapend
 
 @snap[west span-35]
-@box[bg-red text-white](1. Growing#Human Traits)
+@box[bg-blue text-white](1. Growing#Human Traits)
 @snapend
 
 @snap[east span-35]
-@box[bg-red text-white](2. Declining#Manual and Simple)
+@box[bg-blue text-white](2. Declining#Manual and Simple)
 @snapend
 
 ---
@@ -71,11 +71,11 @@ Let's see what jobs look like in 2022
 @snapend
 
 @snap[west span-35]
-@box[bg-red text-white](1.#Data)
+@box[bg-blue text-white](1.#Data)
 @snapend
 
 @snap[midpoint span-35]
-@box[bg-red text-white](2.#Technology)
+@box[bg-blue text-white](2.#Technology)
 @snapend
 
 @snap[east span-35]
