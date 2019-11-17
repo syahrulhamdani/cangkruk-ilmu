@@ -128,3 +128,24 @@ Contributing Courses, at least for me
 @title[Math for future]
 
 @quote[Mathematics act as a building blocks of recent development and research in AI]
+
+---
+@title[What should math students do?]
+
+### What should math students do?
+
++++
+@title[Todo List]
+
+@ul
+- Calculus, Linear Algebra, and Statistics are a must.
+- More code. Just code.
+- Have career goals.
+- Do more internships.
+- Generalize, not memorize.
+@ulend
+
+---
+@title[QnA Session]
+
+## QnA Session
