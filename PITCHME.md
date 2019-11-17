@@ -91,7 +91,7 @@ Let's see what jobs look like in 2022
 @title[Math in Unair]
 
 @snap[east span-50]
-Courses I took which affect my current field
+Contributing Courses
 @snapend
 
 @snap[west span-50 text-08]
