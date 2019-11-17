@@ -150,4 +150,4 @@ Contributing Courses, at least for me
 ---?image=assets/img/question.jpeg
 @title[QnA Session]
 
-## QnA Session
+@css[text-white](## QnA Session)
