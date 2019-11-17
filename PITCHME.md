@@ -137,6 +137,8 @@ Contributing Courses, at least for me
 +++
 @title[Todo List]
 
+### Some Takeaways
+
 @ul
 - Calculus, Linear Algebra, and Statistics are a must.
 - More code. Just code.
