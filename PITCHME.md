@@ -17,6 +17,7 @@
 2019		: AI Engineer Intern at Nodeflux (2 months)
 2018 - 2019	: Data Scientist at Bareksa (5 months)
 2019 - present	: Data Science Engineer at Kurio
+2019 - present	: Part-Time Instructor at Hacktiv8
 
 **Education**
 2012 - 2016	: B.Sc in Mathematics (Unair)
@@ -39,7 +40,19 @@ So, kukuh asked me to share about how important math towards industry 4.0.
 
 Try to find the word "math"
 
+Note:
+
+- Give a leak about outlook skills in 2022 by World Economic Forum
+- Disclaimer: Feel free to challenge it
+- Emphasize audience to really find the word "math"
+
 +++?image=https://assets.weforum.org/editor/large_4GZ90_U81eRrFFrOZ7_pmyr3oEb-F6v5Wc_B9kHVdSU.png&size=contain
+
+Note:
+
+- Ask audience the differences between two
+- After finding the word, ask why math is in declining side?
+- Give short description the characteristics of each sides?
 
 +++
 @title[Skills Outlook Summary]
@@ -60,6 +73,11 @@ Try to find the word "math"
 @title[2022 Job Landscape]
 
 Let's see what jobs look like in 2022
+
+Note:
+
+- Based on those skills, let's see jobs in 2022
+- Ask audience what kind of jobs needed in 2022?
 
 +++?image=https://assets.weforum.org/editor/large_ILvSrkBG-jFLFS61hZo3G_0cb2ABMlG-zBzfPmJXA7E.png&size=contain
 
@@ -91,7 +109,7 @@ Let's see what jobs look like in 2022
 @title[Math in Unair]
 
 @snap[east span-50]
-Contributing Courses
+Contributing Courses, at least for me
 @snapend
 
 @snap[west span-50 text-08]
