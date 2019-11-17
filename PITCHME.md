@@ -96,7 +96,7 @@ Courses I took which affect my current field
 - Mathematical Modeling I & II
 - Programming & Algorithm
 - Data Structure & Algorithm
-- OR & Addvanced OR
+- OR & Advanced OR
 - Optimization
 @ulend
 @snapend
