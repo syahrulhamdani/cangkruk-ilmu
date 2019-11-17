@@ -123,3 +123,8 @@ Contributing Courses, at least for me
 - Optimization
 @ulend
 @snapend
+
+---?image=https://images.unsplash.com/photo-1489844097929-c8d5b91c456e?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1052&q=80&size=contain
+@title[Math for future]
+
+@quote[Mathematics act as a building blocks of recent development and research in AI]
