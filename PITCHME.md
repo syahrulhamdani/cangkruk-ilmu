@@ -79,7 +79,7 @@ Let's see what jobs look like in 2022
 @snapend
 
 @snap[east span-35]
-@box[bg-red text-white](2.#Human Development)
+@box[bg-blue text-white](3.#Human Development)
 @snapend
 
 ---
