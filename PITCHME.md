@@ -70,15 +70,15 @@ Let's see what jobs look like in 2022
 ### Job Landscape
 @snapend
 
-@snap[west span-35]
+@snap[west span-30]
 @box[bg-blue text-white](1.#Data)
 @snapend
 
-@snap[midpoint span-35]
+@snap[midpoint span-30]
 @box[bg-blue text-white](2.#Technology)
 @snapend
 
-@snap[east span-35]
+@snap[east span-30]
 @box[bg-blue text-white](3.#Human Development)
 @snapend
 
