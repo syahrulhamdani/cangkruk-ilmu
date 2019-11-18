@@ -137,7 +137,7 @@ Contributing Courses, at least for me
 +++
 @title[AI in Gmail]
 
-![AI GMail](assets/img/AI Gmail.png)
+![AI GMail](assets/img/ai-gmail.png)
 
 +++
 @title[Neural Networks and Transformers]
