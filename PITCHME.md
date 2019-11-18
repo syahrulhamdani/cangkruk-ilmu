@@ -129,6 +129,21 @@ Contributing Courses, at least for me
 
 @quote[Mathematics act as a building blocks of recent development and research in AI]
 
++++
+@title[Application of Math and AI]
+
+### Let's see how math and AI work together
+
++++?image=assets/img/AI gmail.png
+@title[AI in Gmail]
+
++++
+@title[Neural Networks and Transformers]
+
+[Draw with Google](https://quickdraw.withgoogle.com/)
+
+[Write with Transformers](https://transformer.huggingface.co/)
+
 ---
 @title[What should math students do?]
 
