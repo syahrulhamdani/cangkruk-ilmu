@@ -134,8 +134,10 @@ Contributing Courses, at least for me
 
 ### Let's see how math and AI work together
 
-+++?image=assets/img/AI gmail.png
++++
 @title[AI in Gmail]
+
+![AI GMail](assets/img/AI Gmail.png)
 
 +++
 @title[Neural Networks and Transformers]
