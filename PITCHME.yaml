@@ -1,8 +1,11 @@
 theme                   : template
-
 theme-background        : ["f8f8f7"]
 theme-headline          : ["Poppins", "#424242"]
 theme-byline            : ["Nunito Sans", "#424242"]
 theme-text              : ["Nunito Sans", "#424242"]
 
 logo                    : assets/img/himatika-logo.png
+title                   : "Cangkruk Ilmu Matematika Unair"
+footnote                : "Cangkruk Ilmu by <a href='https://www.linkedin.com/in/sbhamdani/'>Syahrul Hamdani</a>"
+loop                    : true
+published               : true
